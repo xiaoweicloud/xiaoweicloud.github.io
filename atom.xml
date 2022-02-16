@@ -3,11 +3,11 @@
   <title>小威云博客</title>
   
   <subtitle>旗下网站导航博客</subtitle>
-  <link href="https://blog.idc.qa/atom.xml" rel="self"/>
+  <link href="https://blogcloud.github.io/atom.xml" rel="self"/>
   
-  <link href="https://blog.idc.qa/"/>
+  <link href="https://blogcloud.github.io/"/>
   <updated>2022-02-15T03:16:19.512Z</updated>
-  <id>https://blog.idc.qa/</id>
+  <id>https://blogcloud.github.io/</id>
   
   <author>
     <name>初梦</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blog.idc.qa/2022/02/15/hello-world/"/>
-    <id>https://blog.idc.qa/2022/02/15/hello-world/</id>
+    <link href="https://blogcloud.github.io/2022/02/15/hello-world/"/>
+    <id>https://blogcloud.github.io/2022/02/15/hello-world/</id>
     <published>2022-02-15T03:18:04.984Z</published>
     <updated>2022-02-15T03:16:19.512Z</updated>
     
